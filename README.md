@@ -1,2 +1,0 @@
-# DataScienceBootCamp
-# Test repo
